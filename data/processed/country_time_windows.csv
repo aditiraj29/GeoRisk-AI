@@ -1,0 +1,318 @@
+country,window,avg_risk
+Afghanistan,7_DAYS,70.0
+Afghanistan,30_DAYS,70.0
+Afghanistan,90_DAYS,70.0
+Albania,7_DAYS,70.0
+Albania,30_DAYS,70.0
+Albania,90_DAYS,70.0
+American Samoa,7_DAYS,70.0
+American Samoa,30_DAYS,70.0
+American Samoa,90_DAYS,70.0
+Antarctica,7_DAYS,70.0
+Antarctica,30_DAYS,70.0
+Antarctica,90_DAYS,70.0
+Argentina,7_DAYS,70.0
+Argentina,30_DAYS,70.0
+Argentina,90_DAYS,70.0
+Armenia,7_DAYS,70.0
+Armenia,30_DAYS,70.0
+Armenia,90_DAYS,70.0
+Australia,7_DAYS,15.0
+Australia,30_DAYS,15.0
+Australia,90_DAYS,15.0
+Austria,7_DAYS,15.0
+Austria,30_DAYS,15.0
+Austria,90_DAYS,15.0
+Azerbaijan,7_DAYS,70.0
+Azerbaijan,30_DAYS,70.0
+Azerbaijan,90_DAYS,70.0
+Bahamas,7_DAYS,70.0
+Bahamas,30_DAYS,70.0
+Bahamas,90_DAYS,70.0
+Bahrain,7_DAYS,15.0
+Bahrain,30_DAYS,15.0
+Bahrain,90_DAYS,15.0
+Bangladesh,7_DAYS,15.0
+Bangladesh,30_DAYS,15.0
+Bangladesh,90_DAYS,15.0
+Belarus,7_DAYS,70.0
+Belarus,30_DAYS,70.0
+Belarus,90_DAYS,70.0
+Belgium,7_DAYS,70.0
+Belgium,30_DAYS,70.0
+Belgium,90_DAYS,70.0
+Bermuda,7_DAYS,15.0
+Brazil,7_DAYS,70.0
+Brazil,30_DAYS,70.0
+Brazil,90_DAYS,70.0
+Bulgaria,7_DAYS,15.0
+Burkina Faso,7_DAYS,70.0
+Cambodia,7_DAYS,70.0
+Cambodia,30_DAYS,70.0
+Cambodia,90_DAYS,70.0
+Cameroon,7_DAYS,70.0
+Canada,7_DAYS,70.0
+Canada,30_DAYS,70.0
+Canada,90_DAYS,70.0
+Cayman Islands,7_DAYS,70.0
+Chad,7_DAYS,70.0
+Chad,30_DAYS,70.0
+Chad,90_DAYS,70.0
+Chile,7_DAYS,70.0
+Chile,30_DAYS,70.0
+Chile,90_DAYS,70.0
+China,7_DAYS,70.0
+China,30_DAYS,70.0
+China,90_DAYS,70.0
+Colombia,7_DAYS,70.0
+Colombia,30_DAYS,70.0
+Colombia,90_DAYS,70.0
+Congo,7_DAYS,70.0
+Congo,30_DAYS,70.0
+Congo,90_DAYS,70.0
+Costa Rica,7_DAYS,15.0
+Costa Rica,30_DAYS,15.0
+Costa Rica,90_DAYS,15.0
+Cuba,7_DAYS,70.0
+Cuba,30_DAYS,70.0
+Cuba,90_DAYS,70.0
+Cyprus,7_DAYS,70.0
+Cyprus,30_DAYS,70.0
+Cyprus,90_DAYS,70.0
+Denmark,7_DAYS,70.0
+Denmark,30_DAYS,70.0
+Denmark,90_DAYS,70.0
+Dominica,7_DAYS,70.0
+Dominica,30_DAYS,70.0
+Dominica,90_DAYS,70.0
+Ecuador,7_DAYS,15.0
+Ecuador,30_DAYS,15.0
+Ecuador,90_DAYS,15.0
+Egypt,7_DAYS,15.0
+Egypt,30_DAYS,15.0
+Egypt,90_DAYS,15.0
+El Salvador,7_DAYS,70.0
+El Salvador,30_DAYS,70.0
+El Salvador,90_DAYS,70.0
+Estonia,7_DAYS,70.0
+Estonia,30_DAYS,70.0
+Estonia,90_DAYS,70.0
+Ethiopia,7_DAYS,70.0
+Ethiopia,30_DAYS,70.0
+Ethiopia,90_DAYS,70.0
+Fiji,7_DAYS,70.0
+Fiji,30_DAYS,70.0
+Fiji,90_DAYS,70.0
+Finland,7_DAYS,70.0
+France,7_DAYS,42.5
+France,30_DAYS,42.5
+France,90_DAYS,42.5
+Georgia,7_DAYS,15.0
+Georgia,30_DAYS,42.5
+Georgia,90_DAYS,47.08
+Germany,7_DAYS,15.0
+Germany,30_DAYS,15.0
+Germany,90_DAYS,15.0
+Ghana,7_DAYS,15.0
+Greece,7_DAYS,15.0
+Greece,30_DAYS,15.0
+Greece,90_DAYS,15.0
+Greenland,7_DAYS,70.0
+Greenland,30_DAYS,70.0
+Greenland,90_DAYS,70.0
+Guam,7_DAYS,70.0
+Guam,30_DAYS,70.0
+Guam,90_DAYS,70.0
+Guatemala,7_DAYS,70.0
+Guatemala,30_DAYS,70.0
+Guatemala,90_DAYS,70.0
+Guinea,7_DAYS,15.0
+Guinea,30_DAYS,15.0
+Guinea,90_DAYS,15.0
+Haiti,7_DAYS,15.0
+Haiti,30_DAYS,15.0
+Haiti,90_DAYS,15.0
+Honduras,7_DAYS,15.0
+Honduras,30_DAYS,15.0
+Honduras,90_DAYS,15.0
+Hong Kong,7_DAYS,15.0
+Hong Kong,30_DAYS,15.0
+Hong Kong,90_DAYS,15.0
+Hungary,7_DAYS,15.0
+Hungary,30_DAYS,15.0
+Hungary,90_DAYS,15.0
+Iceland,7_DAYS,15.0
+India,7_DAYS,70.0
+India,30_DAYS,70.0
+India,90_DAYS,56.25
+Indonesia,7_DAYS,70.0
+Indonesia,30_DAYS,70.0
+Indonesia,90_DAYS,70.0
+Iraq,7_DAYS,70.0
+Iraq,30_DAYS,70.0
+Iraq,90_DAYS,70.0
+Ireland,7_DAYS,70.0
+Ireland,30_DAYS,70.0
+Ireland,90_DAYS,70.0
+Israel,7_DAYS,70.0
+Israel,30_DAYS,70.0
+Israel,90_DAYS,49.38
+Italy,7_DAYS,70.0
+Italy,30_DAYS,70.0
+Italy,90_DAYS,70.0
+Japan,7_DAYS,70.0
+Japan,30_DAYS,70.0
+Japan,90_DAYS,70.0
+Jersey,7_DAYS,70.0
+Jersey,30_DAYS,70.0
+Jersey,90_DAYS,70.0
+Jordan,7_DAYS,70.0
+Jordan,30_DAYS,70.0
+Jordan,90_DAYS,70.0
+Kazakhstan,7_DAYS,70.0
+Kenya,7_DAYS,70.0
+Kenya,30_DAYS,70.0
+Kenya,90_DAYS,70.0
+Kuwait,7_DAYS,70.0
+Kuwait,30_DAYS,70.0
+Kuwait,90_DAYS,70.0
+Latvia,7_DAYS,15.0
+Lebanon,7_DAYS,70.0
+Lebanon,30_DAYS,70.0
+Lebanon,90_DAYS,70.0
+Liberia,7_DAYS,15.0
+Liberia,30_DAYS,15.0
+Liberia,90_DAYS,42.5
+Libya,7_DAYS,15.0
+Libya,30_DAYS,15.0
+Libya,90_DAYS,15.0
+Luxembourg,7_DAYS,70.0
+Luxembourg,30_DAYS,70.0
+Luxembourg,90_DAYS,70.0
+Madagascar,7_DAYS,15.0
+Madagascar,30_DAYS,15.0
+Madagascar,90_DAYS,15.0
+Malaysia,7_DAYS,70.0
+Malaysia,30_DAYS,70.0
+Malaysia,90_DAYS,70.0
+Mali,7_DAYS,15.0
+Mali,30_DAYS,15.0
+Mali,90_DAYS,15.0
+Marshall Islands,7_DAYS,70.0
+Marshall Islands,30_DAYS,70.0
+Marshall Islands,90_DAYS,70.0
+Mexico,7_DAYS,15.0
+Mexico,30_DAYS,15.0
+Mexico,90_DAYS,33.33
+Monaco,7_DAYS,70.0
+Mongolia,7_DAYS,70.0
+Morocco,7_DAYS,15.0
+Morocco,30_DAYS,15.0
+Morocco,90_DAYS,51.67
+Myanmar,7_DAYS,70.0
+Myanmar,30_DAYS,70.0
+Myanmar,90_DAYS,70.0
+Nepal,7_DAYS,15.0
+Netherlands,7_DAYS,70.0
+Netherlands,30_DAYS,70.0
+Netherlands,90_DAYS,70.0
+New Zealand,7_DAYS,15.0
+New Zealand,30_DAYS,15.0
+New Zealand,90_DAYS,15.0
+Nicaragua,7_DAYS,70.0
+Nicaragua,30_DAYS,70.0
+Nicaragua,90_DAYS,70.0
+Niger,7_DAYS,70.0
+Niger,30_DAYS,70.0
+Niger,90_DAYS,70.0
+Northern Mariana Islands,7_DAYS,70.0
+Norway,7_DAYS,70.0
+Norway,30_DAYS,70.0
+Norway,90_DAYS,70.0
+Oman,7_DAYS,70.0
+Oman,30_DAYS,70.0
+Oman,90_DAYS,70.0
+Pakistan,7_DAYS,70.0
+Pakistan,30_DAYS,70.0
+Pakistan,90_DAYS,70.0
+Panama,7_DAYS,70.0
+Panama,30_DAYS,70.0
+Panama,90_DAYS,70.0
+Peru,7_DAYS,70.0
+Peru,30_DAYS,70.0
+Peru,90_DAYS,70.0
+Philippines,7_DAYS,70.0
+Philippines,30_DAYS,70.0
+Philippines,90_DAYS,70.0
+Pitcairn,7_DAYS,42.5
+Pitcairn,30_DAYS,42.5
+Poland,7_DAYS,70.0
+Poland,30_DAYS,70.0
+Poland,90_DAYS,70.0
+Portugal,7_DAYS,70.0
+Puerto Rico,7_DAYS,70.0
+Puerto Rico,30_DAYS,70.0
+Puerto Rico,90_DAYS,70.0
+Qatar,7_DAYS,70.0
+Qatar,30_DAYS,70.0
+Qatar,90_DAYS,70.0
+Rwanda,7_DAYS,15.0
+Rwanda,30_DAYS,15.0
+Rwanda,90_DAYS,15.0
+Saudi Arabia,7_DAYS,70.0
+Saudi Arabia,30_DAYS,70.0
+Saudi Arabia,90_DAYS,70.0
+Serbia,7_DAYS,70.0
+Seychelles,7_DAYS,70.0
+Singapore,7_DAYS,70.0
+Singapore,30_DAYS,42.5
+Singapore,90_DAYS,51.67
+Slovakia,7_DAYS,70.0
+Slovenia,7_DAYS,70.0
+Slovenia,30_DAYS,70.0
+Slovenia,90_DAYS,70.0
+South Africa,7_DAYS,70.0
+South Africa,30_DAYS,70.0
+South Africa,90_DAYS,70.0
+Spain,7_DAYS,15.0
+Spain,30_DAYS,15.0
+Spain,90_DAYS,15.0
+Sri Lanka,7_DAYS,70.0
+Sri Lanka,30_DAYS,70.0
+Sri Lanka,90_DAYS,70.0
+Sudan,7_DAYS,70.0
+Suriname,7_DAYS,15.0
+Sweden,7_DAYS,15.0
+Sweden,30_DAYS,15.0
+Sweden,90_DAYS,15.0
+Switzerland,7_DAYS,15.0
+Switzerland,30_DAYS,15.0
+Switzerland,90_DAYS,15.0
+Thailand,7_DAYS,15.0
+Thailand,30_DAYS,15.0
+Thailand,90_DAYS,15.0
+Togo,7_DAYS,15.0
+Uganda,7_DAYS,70.0
+Uganda,30_DAYS,70.0
+Uganda,90_DAYS,70.0
+Ukraine,7_DAYS,70.0
+Ukraine,30_DAYS,70.0
+Ukraine,90_DAYS,70.0
+United Arab Emirates,7_DAYS,70.0
+United Arab Emirates,30_DAYS,70.0
+United Arab Emirates,90_DAYS,70.0
+United Kingdom,7_DAYS,15.0
+United Kingdom,30_DAYS,15.0
+United Kingdom,90_DAYS,15.0
+United States,7_DAYS,15.0
+United States,30_DAYS,15.0
+United States,90_DAYS,15.0
+Uruguay,7_DAYS,70.0
+Uzbekistan,7_DAYS,70.0
+Viet Nam,7_DAYS,15.0
+Yemen,7_DAYS,70.0
+Yemen,30_DAYS,70.0
+Yemen,90_DAYS,70.0
+Zimbabwe,7_DAYS,70.0
+Zimbabwe,30_DAYS,70.0
+Zimbabwe,90_DAYS,70.0
